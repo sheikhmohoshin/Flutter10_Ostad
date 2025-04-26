@@ -6,6 +6,7 @@ class Father{
 
   Father(this.fatherName){
     print('$fatherName object created');
+    print("Hello world");
   }
   incomeSource(){
     print('Farming');
